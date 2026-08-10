@@ -160,9 +160,13 @@ Budget
 ITEM                                         ESTIMATED COST  
 
 Domain name (per year)                         R250 
+
 Web Hosting (per year)                         R1 200 
+
 Website development                            R5 000 
+
 Website maintenance                            R300 per month 
+
  
 Budget Explanation 
 
