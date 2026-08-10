@@ -55,16 +55,22 @@ both new and existing customers to interact with the bakery.
 
 Strengths 
 
-• Freshly baked, homemade products made with quality ingredients.  
-• Custom cakes and desserts for a variety of occasions.  
+• Freshly baked, homemade products made with quality ingredients. 
+
+• Custom cakes and desserts for a variety of occasions. 
+
 • Friendly, reliable, and personalised customer service.  
+
 • Strong customer relationships through social media and WhatsApp.  
 
 Weaknesses 
 
 • No official website to showcase the bakery.  
-• Customers cannot easily browse the full product range.  
+
+• Customers cannot easily browse the full product range. 
+
 • Limited online information about products, prices, and services.  
+
 • New customers may find it difficult to learn about the business.  
 
 Areas for Improvement
@@ -191,18 +197,25 @@ people viewing the website connect more with the brand. (Tessa's Bakery, n.d.)
 STRENGTHS 
 
 •  Attractive and professional website design 
+
 • Clear navigation menu that makes the website easy to use 
+
 • High-quality images that showcase the business products and what they offer 
+
 • Separate sections for cakes, cupcakes, cookies, and custom orders 
+
 • Included contact information 
+
 • Shares the bakery's story, helping customers build trust in the business 
 
 Weakness  
 
 • Product prices are not displayed for all items, so customers may need to contact the bakery for 
 quotations 
+
 • The website contains a lot of information, which may require visitors to scroll to find specific 
 details  
+
 Very few weaknesses were identified, as the website is easy to navigate, visually appealing and 
 provides customers with the information they need. 
 
