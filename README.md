@@ -1,7 +1,10 @@
 # Baked-By-B
 Baked by B bakery website
+
 Student Name: Kathy Catherine Kandala 
+
 Student Number:ST10544780 
+
 Organisation Name: Baked by B 
 
 Baked by B was founded from a passion for baking and a love for creating desserts that bring people 
@@ -44,11 +47,13 @@ social media platforms and WhatsApp. While these platforms are useful for commun
 not provide customers with one place to view products, learn about the bakery, or access important 
 information. An official website will improve the business's online presence and make it easier for 
 both new and existing customers to interact with the bakery. 
+
 Strengths 
 • Freshly baked, homemade products made with quality ingredients.  
 • Custom cakes and desserts for a variety of occasions.  
 • Friendly, reliable, and personalised customer service.  
 • Strong customer relationships through social media and WhatsApp.  
+
 Weaknesses 
 • No official website to showcase the bakery.  
 • Customers cannot easily browse the full product range.  
@@ -110,6 +115,7 @@ organised. A navigation menu will appear at the top of every page, allowing visi
 between the Home, About Us, Products, Special Offers, Custom Orders, and Contact Us pages. 
 Product images and descriptions will help customers explore the bakery's products, while the simple 
 layout will ensure that information is easy to find and understand. 
+
 Technical Requirements 
 The Baked by B website will be developed using HTML in Visual Studio Code. The website 
 will consist of multiple linked web pages, images, and a navigation menu to allow users to 
@@ -130,7 +136,6 @@ Day 6 Test the website, fix any errors, make final improvements, and submit the
 completed project. 
  
  
-  
 Budget  
   ITEM                                         ESTIMATED COST  
 Domain name (per year)                         R250 
